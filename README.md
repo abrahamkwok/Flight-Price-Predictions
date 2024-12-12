@@ -3,7 +3,7 @@
 
 ---
 
-### Repo Layout:
+### [IMPORTANT!] Repo Layout:
 - Datasets, data sampling notebook, & data cleaning notebook can be found in the __`data`__ folder
   - *Note: The sampled data csv is stored compressed, due to file size limitations with Github*
 - Model notebooks (LinReg, Lasso, RF, CART, Time Series) can be found in the __`models`__ folder
